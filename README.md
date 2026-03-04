@@ -18,5 +18,8 @@ Generated business insights through data visualization.
 ## Dataset
 Due to file size limitations, the dataset is hosted on Google Drive.
 
-Access dataset here:
+## Access dataset here:
 [Download Dataset] https://drive.google.com/file/d/1PSPua2UI8ssIT9v713WlTNUU17fVFaFz/view?usp=drive_link
+
+## Dataset used in this project:
+https://drive.google.com/file/d/1S3SD59sZx_B92bif2xUE1BOuCo2MNdAt/view?usp=drive_link
