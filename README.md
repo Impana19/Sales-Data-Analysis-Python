@@ -1,4 +1,3 @@
-
 # Python Sales Analysis Project
 
 This project analyzes retail sales data using Python.
