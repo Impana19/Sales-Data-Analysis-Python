@@ -14,3 +14,9 @@ This project analyzes retail sales data using Python.
 
 ## Outcome
 Generated business insights through data visualization.
+
+## Dataset
+Due to file size limitations, the dataset is hosted on Google Drive.
+
+Access dataset here:
+[Download Dataset] https://drive.google.com/file/d/1PSPua2UI8ssIT9v713WlTNUU17fVFaFz/view?usp=drive_link
